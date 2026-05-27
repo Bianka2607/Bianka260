@@ -11,6 +11,3 @@
 
 ---
 
-<img align="right" width="360" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=franks-sys&theme=transparent"/>
-
-
