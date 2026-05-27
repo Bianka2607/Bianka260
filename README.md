@@ -16,7 +16,7 @@
 
 ```yaml
 name:     BIANKA
-handle:   franks-sys
+handle:   BIANKA -sys
 role:     Developer
 focus:    Backend & Web
 based:    Brazil 🇧🇷
